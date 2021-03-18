@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:enabled="false"
+        android:title="Shake to clear all entered data" />
+    <item
+        android:onClick="onClear"
+        android:title="Click to Clear all saved prefrences" />
+    <item
+        android:onClick="historyClick"
+        android:title="Trips History" />
+</menu>

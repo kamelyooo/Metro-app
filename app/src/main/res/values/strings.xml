@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MetroApp</string>
+    <string name="nearest_staion">Nearest station</string>
+    <string name="all_stations_lines">All Stations/Lines</string>
+</resources>
